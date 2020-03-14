@@ -1,6 +1,7 @@
 #include <unistd.h>
 #include <cerrno>
 #include <iostream>
+#include <cstring>
 #include "svrskt.h"
 #include "utils.h"
 

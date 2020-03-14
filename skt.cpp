@@ -1,5 +1,6 @@
 #include <unistd.h>
 #include <netdb.h>
+#include <cstring>
 #include "iostream"
 #include "skt.h"
 #include "utils.h"
